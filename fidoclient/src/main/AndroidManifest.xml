@@ -25,7 +25,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.yalin.fidoclient.ui.UAFClientActivity">
+        <activity android:name="ui.UAFClientActivity">
             <intent-filter>
                 <action android:name="org.fidoalliance.intent.FIDO_OPERATION" />
                 <category android:name="android.intent.category.DEFAULT" />
