@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_accent">#F44336</color>
+    <color name="theme_primary">@color/color_accent</color>
+    <color name="theme_primary_dark">#D32F2F</color>
+
+    <color name="body_text_1">#DE000000</color>
+    <color name="cyan_a700_plus">#E57373</color>
+    <color name="divider">#1f000000</color>
+    <color name="subtitle_on_primary">#de004446</color>
+
+    <color name="grey_background">#f5f5f5</color>
+
+    <color name="flat_button_text">#ff008094</color>
+
+    <color name="navdrawer_background">#ffffffff</color>
+    <color name="navdrawer_text_color">@color/body_text_1</color>
+    <color name="navdrawer_text_color_selected">@color/cyan_a700_plus</color>
+    <color name="navdrawer_icon_tint">#444</color>
+    <color name="navdrawer_icon_tint_selected">@color/cyan_a700_plus</color>
+    <color name="navdrawer_selected_item_background">#1a000000</color>
+
+    <color name="warning_color">#f4511e</color>
+    <color name="hint_color">#698592</color>
+    <color name="success_color">#009688</color>
+
+    <color name="text_on_primary">#EEEEEE</color>
+</resources>

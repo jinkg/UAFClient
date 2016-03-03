@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="authenticator_item_rv_padding">8dp</dimen>
+    <dimen name="authenticator_item_padding">24dp</dimen>
+    <dimen name="authenticator_item_margin">5dp</dimen>
+</resources>

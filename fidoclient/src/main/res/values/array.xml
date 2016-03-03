@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="touch_ids">
+        <item>face 1</item>
+        <item>face 2</item>
+        <item>face 3</item>
+        <item>face 4</item>
+        <item>face 5</item>
+    </string-array>
+
+</resources>

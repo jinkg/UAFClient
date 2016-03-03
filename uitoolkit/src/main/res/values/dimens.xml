@@ -1,0 +1,24 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="me_login_button_width">160dp</dimen>
+
+    <dimen name="default_elevation">8dp</dimen>
+
+    <dimen name="loading_failed_top_padding">60dp</dimen>
+    <dimen name="fragment_shadow_width">4dp</dimen>
+    <dimen name="fragment_shadow_width_negative">-4dp</dimen>
+
+    <dimen name="sb__bg_corner_radius">0dp</dimen>
+    <dimen name="sb__offset">0dp</dimen>
+    <dimen name="sb__text_padding_bottom">14dp</dimen>
+    <dimen name="sb__text_padding_left">24dp</dimen>
+    <dimen name="sb__text_padding_top">14dp</dimen>
+    <dimen name="sb__text_padding_right">24dp</dimen>
+    <dimen name="sb__text_size">14sp</dimen>
+    <dimen name="sb__min_width">288dp</dimen>
+    <dimen name="sb__max_width">568dp</dimen>
+</resources>

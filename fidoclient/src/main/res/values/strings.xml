@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">UAFClient</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+
+    <string name="no_default_asm_prompt">The Client have not set default ASM.\n
+        RP user will select a ASM to handle UAF operator.\n
+        Then the ASM will be set as default ASM.</string>
+    <string name="asm_pack_prompt">Default ASM package:\n%s</string>
+
+    <string name="default_asm_app_name">Default ASM App:%s</string>
+    <string name="default_asm_none">No Default ASM</string>
+
+    <string name="reg_request">User %s try to register UAF device,agree?</string>
+    <string name="auth_request">You need verify,agree?</string>
+    <string name="dereg_request">Deregister UAF device,agree?</string>
+
+    <string name="fido_asm_handle_mime">application/fido.uaf_asm+json</string>
+    <string name="fido_permission_description">This application acts as a FIDO Client. It may
+       access authentication devices available on the system, create and
+       delete FIDO registrations on behalf of other applications.</string>
+
+    <string name="action_as_browser_permission_description">This application may act as a web browser,
+       creating new and accessing existing FIDO registrations for any domain.</string>
+
+    <string name="fido_operation_mime">application/fido.uaf_client+json</string>
+
+    <string name="no_permission_description">You should contain the permission : org.fidoalliance.uaf.permissions.FIDO_CLIENT </string>
+
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="fingerprint_not_recognized">Fingerprint not recognized. Try again</string>
+    <string name="fingerprint_success">Fingerprint recognized</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="sign_in">Sign in</string>
+    <string name="fingerprint_description">Confirm fingerprint to continue</string>
+
+    <string name="client_op_type_error">error: uaf type error</string>
+    <string name="handle_error">error: prepare uaf op error</string>
+    <string name="unknown_device">unknown device</string>
+    <string name="select_device_type">All available device are present below,
+        select a device to complete the operator.</string>
+
+    <string name="select_asm">All available ASM are present below,
+        select a ASM to complete the operator.</string>
+
+    <string name="no_asm">No ASM has been installed.</string>
+
+    <string name="biometrics_auth">Input your biometrics to identify your identity.</string>
+    <string name="uaf_client_welcome">UAF Client.Bellow is the default ASM App info.</string>
+</resources>
