@@ -2,8 +2,6 @@
 
 [UAF Architectural Overview](https://fidoalliance.org/wp-content/uploads/html/fido-uaf-overview-v1.0-ps-20141208.html)
 
-If you have any question.Send email to 349218364@qq.com to tell me.
-
 ## UAFClient
 FIDO UAF Client implementation
 
